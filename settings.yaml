@@ -1,0 +1,6 @@
+---
+package_config_all:
+ - {name: 'colordiff', state: False}
+ - {name: 'colorls', state: False}
+
+
